@@ -2,6 +2,7 @@ body {background-color:#D8EBFF; color:#40615F;}
 
 a:link, a:visited {color:#5F7000; text-decoration:underline;font-size:14;}
 
+
 .pic{
 	width:100%;
 	text-align:center;
@@ -12,10 +13,6 @@ a:link, a:visited {color:#5F7000; text-decoration:underline;font-size:14;}
 	text-align:center;
 	}
 
-
-.home{
-	text-align:right;
-}	
 	
 .resume{
 		border:1px solid black;
@@ -29,6 +26,7 @@ a:link, a:visited {color:#5F7000; text-decoration:underline;font-size:14;}
 	
 .title{
 		text-decoration:underline;
+		border-top:dotted;
 	}
 
 .subt{
