@@ -1,6 +1,6 @@
 body {background-color:#D8EBFF; color:#40615F;}
 
-a:link, a:visited {color:#5F7000; text-decoration:underline;font-size:14;}
+a:link, a:visited {color:#5F7000; text-decoration:underline;}
 
 
 .pic{
@@ -23,13 +23,12 @@ a:link, a:visited {color:#5F7000; text-decoration:underline;font-size:14;}
 		text-align:left; 
 		padding:20px;
 	}
+
+h3 {font-size:20px;}
 	
-.title{
-		text-decoration:underline;
+h4 {font-style:italic;}	
+	
+.title{		
 		border-top:dotted;
 	}
 
-.subt{
-	font-style:italic;
-	font-weight:bold;
-}
